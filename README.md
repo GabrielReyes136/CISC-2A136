@@ -1,7 +1,5 @@
 	Nintendo® based cycle precise emulation suite
 
-Nintendo® based cycle precise emulation suite
-
 
 # hikari-NES
 emulator for the Nintendo entertainment system with extensive support of relevant collection of games.
